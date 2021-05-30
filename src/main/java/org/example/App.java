@@ -31,8 +31,8 @@ public class App
         // Disgusting print statement that definitely could have been simplified using
         // a function or something
         System.out.println(firstNum + " + " + secondNum + " = " + sum + "\n"
-                            + firstNum + " - " + secondNum + " = " + difference + "\n"
-                            + firstNum + " * " + secondNum + " = " + product + "\n"
-                            + firstNum + " / " + secondNum + " = " + quotient);
+                + firstNum + " - " + secondNum + " = " + difference + "\n"
+                + firstNum + " * " + secondNum + " = " + product + "\n"
+                + firstNum + " / " + secondNum + " = " + quotient);
     }
 }
